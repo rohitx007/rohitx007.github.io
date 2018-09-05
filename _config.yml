@@ -80,11 +80,11 @@ analytics:
 # Site Author
 author:
   name             : "Rohit Sharma"
-  avatar           : "profile.png"
+  avatar           : "20180324_025821.jpg"
   bio              : "CSE student at IIT-Gn"
   location         : "India"
   employer         :
-  googlescholar    : ""
+  googlescholar    : 
   email            : "rohit.sharma@iitgn.ac.in"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
