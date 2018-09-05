@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "work-experience"
-    url: /work/
-
-  - title: "Talks"
-    url: /talks/       
+    url: /work/      
     
   - title: "Projects"
     url: /projects/
@@ -15,5 +12,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "miscellaneous"
+  - title: "Misc"
     url: /miscellaneous/
