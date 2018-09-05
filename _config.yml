@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rohit Sharma"
-title_separator          : "-"
+title                    : "ROHIT SHARMA"
+title_separator          : " "
 name                     : &name "Rohit Sharma"
-description              : &description "I am a Computer Sciece and Engineering Junior Undergraduate at Indian Institute of Technology Gandhinagar"
+description              : &description "I am a Computer Sciece and Engineering Junior Undergraduate at Indian Institute of Technology Gandhinagar. I am intrested"
 url                      : https://rohitx007.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rohitx007/rohitx007.github.io"
@@ -79,21 +79,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rohit Sharma"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computer Science and Engineering Junior Undergraduate at Indian Institute of Technology-Gandhinagar "
+  location         : "India"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : ""
+  email            : "rohit.sharma@iitgn.ac.in"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100002014543967"
   foursquare       :
-  github           : "academicpages"
+  github           : "rohitx007"
   google_plus      :
   keybase          :
   instagram        :
@@ -102,10 +102,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
